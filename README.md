@@ -1,5 +1,7 @@
 # 🚚 Logistics Ordering App - Flutter 📦
 
+<img src="images/logisticbanner.png" alt="Sign In" />
+
 Welcome to the **Logistics Ordering App**, a modern Flutter application for managing logistics and orders efficiently. This app implements key features such as **API integrations** for **GET**, **POST**, **Login**, and **Logout**, and is styled using **Material UI** to ensure a smooth and intuitive user experience. 📲
 
 ---
