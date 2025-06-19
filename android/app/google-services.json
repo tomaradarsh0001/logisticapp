@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485571852874",
+    "project_id": "logistic-notifications-app",
+    "storage_bucket": "logistic-notifications-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485571852874:android:fa4e7ee65d533fcb2084b3",
+        "android_client_info": {
+          "package_name": "com.logistics.app.logistics_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdJNaSPnySFRRdGZ90ZAizX_br7JtEvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
