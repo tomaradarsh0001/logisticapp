@@ -1,0 +1,2 @@
+C:/Users/cyber/OneDrive/Desktop/logisticapp/android/app/.cxx/Debug/e5392f32/x86/CMakeFiles/edit_cache.dir
+C:/Users/cyber/OneDrive/Desktop/logisticapp/android/app/.cxx/Debug/e5392f32/x86/CMakeFiles/rebuild_cache.dir
