@@ -20,37 +20,37 @@ Welcome to the **Logistics Ordering App**, a modern Flutter application for mana
 ## 🖼️ App Screenshots
 
 ### 🔐 **Sign In**
-<img src="signin.png" alt="Sign In" />
+<img src="images/signin.png" alt="Sign In" />
 
 ### 📝 **Sign Up**
-<img src="signup.png" alt="Sign Up" />
+<img src="images/signup.png" alt="Sign Up" />
 
 ### 🧑‍💼 **Admin Dashboard**
-<img src="admin_dashboard.png" alt="Admin Dashboard" />
+<img src="images/admin_dashboard.png" alt="Admin Dashboard" />
 
 ### 💡 **Light Mode Dashboard**
-<img src="light dashboard.png" alt="Light Dashboard" />
+<img src="images/light dashboard.png" alt="Light Dashboard" />
 
 ### 🌑 **Dark Mode Dashboard**
-<img src="dark_dashboard.png" alt="Dark Dashboard" />
+<img src="images/dark_dashboard.png" alt="Dark Dashboard" />
 
 ### 🛒 **Cart**
-<img src="cart.png" alt="Cart" />
+<img src="images/cart.png" alt="Cart" />
 
 ### 📩 **Request Items**
-<img src="request_items.png" alt="Request Items" />
+<img src="images/request_items.png" alt="Request Items" />
 
 ### ✅ **Confirm Order**
-<img src="confirmations.png" alt="Confirmations" />
+<img src="images/confirmations.png" alt="Confirmations" />
 
 ### 🕓 **Order History**
-<img src="history.png" alt="History" />
+<img src="images/history.png" alt="History" />
 
 ### 🔔 **Notifications**
-<img src="notifications.png" alt="Notifications" />
+<img src="images/notifications.png" alt="Notifications" />
 
 ### 🚪 **Logout**
-<img src="logout.png" alt="Logout" />
+<img src="images/logout.png" alt="Logout" />
 
 ---
 
@@ -62,5 +62,13 @@ Welcome to the **Logistics Ordering App**, a modern Flutter application for mana
 - **Material UI**
 
 ---
+
+
+## 📎 How to Run
+
+```bash
+flutter pub get
+
+flutter run
 
 
